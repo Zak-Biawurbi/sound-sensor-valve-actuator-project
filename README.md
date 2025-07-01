@@ -1,4 +1,4 @@
-# Atomatic_Valve_Actuator_Arduino_Code
+# Automatic_Valve_Actuator_Project
 
 The information below is the Arduino description for a sound sensor-based automatic valve actuator project
 # Sketch Development
